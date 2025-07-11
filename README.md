@@ -1,6 +1,6 @@
-# Домашнее задание к занятию "7. Работа с HTTP" [![Build status](https://ci.appveyor.com/api/projects/status/ap0c0dab0dahwrio?svg=true)](https://ci.appveyor.com/project/TanyaBazuto/dnd-taskmanager)
+# Домашнее задание к занятию "7. Работа с HTTP" [![Build status](https://ci.appveyor.com/api/projects/status/8wad3856oms8skm3?svg=true)](https://ci.appveyor.com/project/TanyaBazuto/http-frontend)
 
-[GitHub Pages](https://tanyabazuto.github.io/dnd__TaskManager/)
+[GitHub Pages](https://tanyabazuto.github.io/http__frontend/)
 
 Сервер: https://github.com/TanyaBazuto/http__backend
 
